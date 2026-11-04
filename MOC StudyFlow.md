@@ -33,3 +33,10 @@ tags:
 ## Глосарій
 - [[MCP-конектор]]
 - [[Guardrail]]
+
+## Шаблони та довідка
+- [[concept]]
+- [[component]]
+- [[decision]]
+- [[glossary]]
+- [[README]]
